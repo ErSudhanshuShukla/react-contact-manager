@@ -1,12 +1,66 @@
-# React + Vite
+# 📇 React Contact Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Contact Manager application built with **React**. React Contact Manager allows users to add, edit, and delete contacts with real-time form validation while securely storing data in Local Storage for a seamless user experience.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://sudhanshu-react-contact-manager.pages.dev/
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<p align="center">
+  <img src="./preview.png" width="300" alt="React Contact Manager Preview">
+</p>
+
+<p align="center">
+  Mobile Preview
+</p>
+
+## ✨ Features
+
+* ➕ Add New Contacts
+* ✏️ Edit Existing Contacts
+* 🗑️ Delete Contacts
+* ✅ Real-Time Form Validation
+* 💾 Local Storage Persistence
+* 📱 Responsive Design
+* 🎨 Modern UI with Tailwind CSS
+* ⚡ Fast & Interactive User Experience
+* 🎯 Clean Interface with Remix Icons
+
+## 🛠️ Tech Stack
+
+* React
+* React Hook Form
+* Tailwind CSS
+* JavaScript (ES6+)
+* Local Storage API
+* Remix Icons
+
+## 🎯 Skills Demonstrated
+
+* React Components
+* React Hooks (`useState`)
+* Props Management
+* Form Handling
+* React Hook Form Validation
+* CRUD Operations
+* Local Storage Integration
+* Conditional Rendering
+* Responsive UI Design
+
+## 🚀 Future Improvements
+
+* 🔍 Search Contacts
+* 📂 Filter & Sort Contacts
+* ⭐ Favorite Contacts
+* 🖼️ Profile Picture Support
+* ☁️ Backend Integration (Node.js & MongoDB)
+* 🔐 User Authentication
+* 📤 Import & Export Contacts
+
+## 👨‍💻 Author
+
+**Sudhanshu Shukla**
+
+[GitHub](https://github.com/ErSudhanshuShukla) | [LinkedIn](https://www.linkedin.com/in/ErSudhanshuShukla)
