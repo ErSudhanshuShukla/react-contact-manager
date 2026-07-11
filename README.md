@@ -9,7 +9,7 @@ https://sudhanshu-react-contact-manager.pages.dev/
 ## 📸 Preview
 
 <p align="center">
-  <img src="./preview.png" width="300" alt="React Contact Manager Preview">
+  <img src="./preview.jpg" width="300" alt="React Contact Manager Preview">
 </p>
 
 <p align="center">
